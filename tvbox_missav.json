@@ -1,0 +1,33 @@
+{
+  "name": "MissAV视频源",
+  "version": "1.0.0",
+  "api": "https://missav.ws",
+  "categories": [
+    {
+      "type_id": 1,
+      "type_name": "最新"
+    },
+    {
+      "type_id": 2, 
+      "type_name": "热门"
+    },
+    {
+      "type_id": 3,
+      "type_name": "日本"
+    },
+    {
+      "type_id": 4,
+      "type_name": "韩国"
+    }
+  ],
+  "videos": [
+    {
+      "vod_id": "sample_001",
+      "vod_name": "示例视频1",
+      "vod_pic": "https://via.placeholder.com/300x200",
+      "vod_remarks": "01:23:45",
+      "vod_play_from": "missav",
+      "vod_play_url": "第1集$https://example.com/video1.mp4"
+    }
+  ]
+}
