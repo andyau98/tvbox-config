@@ -1,0 +1,70 @@
+{
+  "class": [
+    {
+      "type_id": 1,
+      "type_name": "最新"
+    },
+    {
+      "type_id": 2,
+      "type_name": "熱門"
+    },
+    {
+      "type_id": 3,
+      "type_name": "推薦"
+    },
+    {
+      "type_id": 4,
+      "type_name": "日本AV"
+    },
+    {
+      "type_id": 5,
+      "type_name": "韓國AV"
+    },
+    {
+      "type_id": 6,
+      "type_name": "中文字幕"
+    },
+    {
+      "type_id": 7,
+      "type_name": "無碼流出"
+    }
+  ],
+  "list": [
+    {
+      "vod_id": "13",
+      "vod_name": "神棍算命師騙色大胸少婦 肉棒直插小穴化解邪氣",
+      "vod_pic": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN09omrBwADNQFuUCqPAwAAAABJRU5ErkJggg==",
+      "vod_remarks": "未知時長",
+      "vod_play_from": "missav",
+      "vod_play_url": "第1集$https://missav.ws/dm13/pmc356"
+    },
+    {
+      "vod_id": "23",
+      "vod_name": "苗條熟女因無盡的性愛而高潮",
+      "vod_pic": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN09omrBwADNQFuUCqPAwAAAABJRU5ErkJggg==",
+      "vod_remarks": "未知時長",
+      "vod_play_from": "missav",
+      "vod_play_url": "第1集$https://missav.ws/dm23/pacopacomama-051725_100"
+    },
+    {
+      "vod_id": "sample_001",
+      "vod_name": "示例視頻1 - 測試用",
+      "vod_pic": "https://via.placeholder.com/300x200/4A90E2/FFFFFF?text=MISSAV",
+      "vod_remarks": "01:23:45",
+      "vod_play_from": "missav",
+      "vod_play_url": "第1集$https://missav.ws/dm12345"
+    },
+    {
+      "vod_id": "sample_002",
+      "vod_name": "示例視頻2 - 測試用",
+      "vod_pic": "https://via.placeholder.com/300x200/50E3C2/FFFFFF?text=TVBox",
+      "vod_remarks": "02:15:30",
+      "vod_play_from": "missav",
+      "vod_play_url": "第1集$https://missav.ws/dm67890"
+    }
+  ],
+  "page": 1,
+  "pagecount": 5,
+  "limit": 4,
+  "total": 20
+}
