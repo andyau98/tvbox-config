@@ -1,0 +1,32 @@
+{
+  "name": "MissAV 视频站",
+  "url": "https://raw.githubusercontent.com/{username}/tvbox/main/missav.json",
+  "version": "1.0",
+  "configs": [
+    {
+      "key": "missav_home",
+      "name": "最新视频",
+      "url": "https://missav.ws",
+      "type": "web"
+    },
+    {
+      "key": "missav_hot",
+      "name": "热门视频",
+      "url": "https://missav.ws/hot",
+      "type": "web"
+    }
+  ],
+  "parser": {
+    "type": "json",
+    "pattern": {
+      "list": "$.data[*]",
+      "item": {
+        "id": "$.id",
+        "name": "$.title",
+        "pic": "$.cover",
+        "url": "$.video_url",
+        "remark": "$.duration"
+      }
+    }
+  }
+}
