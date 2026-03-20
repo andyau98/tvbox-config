@@ -1,0 +1,38 @@
+{
+  "code": 1,
+  "msg": "success",
+  "data": [
+    {
+      "type_id": 0,
+      "type_name": "全部"
+    },
+    {
+      "type_id": 1,
+      "type_name": "吉水瞳"
+    },
+    {
+      "type_id": 2,
+      "type_name": "巴光"
+    },
+    {
+      "type_id": 3,
+      "type_name": "美穗醬"
+    },
+    {
+      "type_id": 4,
+      "type_name": "黑島玲"
+    },
+    {
+      "type_id": 5,
+      "type_name": "青葉小夏"
+    },
+    {
+      "type_id": 6,
+      "type_name": "澤口詩乃"
+    },
+    {
+      "type_id": 7,
+      "type_name": "三輪靜香"
+    }
+  ]
+}

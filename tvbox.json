@@ -1,0 +1,20 @@
+{
+  "sites": [
+    {
+      "key": "missav",
+      "name": "MissAV影視",
+      "type": 1,
+      "api": "https://你的用戶名.github.io/tvbox-config/api.json",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "playerType": 1
+    }
+  ],
+  "lives": [],
+  "parses": [],
+  "flags": ["m3u8", "mp4"],
+  "ads": [],
+  "wallpaper": "",
+  "spider": ""
+}
